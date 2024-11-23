@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.data\\services\\dataservicedwventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|solutionrelative:loaddwhventas.data\\services\\dataservicedwventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.data\\entities\\dwventas\\factclienteatendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|solutionrelative:loaddwhventas.data\\entities\\dwventas\\factclienteatendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.data\\models\\sales\\dbsalescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|solutionrelative:loaddwhventas.data\\models\\sales\\dbsalescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.data\\models\\northwind\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|solutionrelative:loaddwhventas.data\\models\\northwind\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.data\\entities\\northwind\\vwservedcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|solutionrelative:loaddwhventas.data\\entities\\northwind\\vwservedcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466CC5C1-58F5-4835-A6C3-B807E55B930F}|LoadDWHVentas.WorkerService\\LoadDWHVentas.WorkerService.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.workerservice\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466CC5C1-58F5-4835-A6C3-B807E55B930F}|LoadDWHVentas.WorkerService\\LoadDWHVentas.WorkerService.csproj|solutionrelative:loaddwhventas.workerservice\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.data\\context\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|solutionrelative:loaddwhventas.data\\context\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.data\\context\\dbsalescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|solutionrelative:loaddwhventas.data\\context\\dbsalescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.data\\entities\\dwventas\\factorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|solutionrelative:loaddwhventas.data\\entities\\dwventas\\factorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786DE92-8988-4953-939E-655068D5D632}|LoadDWHVentas.Models\\LoadDWHVentas.Models.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E786DE92-8988-4953-939E-655068D5D632}|LoadDWHVentas.Models\\LoadDWHVentas.Models.csproj|solutionrelative:loaddwhventas.models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|c:\\users\\rmont\\downloads\\loaddwhventas\\loaddwhventas.data\\loaddwhventas.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40C1AABD-1239-4A2C-91AA-D4A90C62F98A}|LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj|solutionrelative:loaddwhventas.data\\loaddwhventas.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactClienteAtendido.cs",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Entities\\DwVentas\\FactClienteAtendido.cs",
+              "RelativeDocumentMoniker": "LoadDWHVentas.Data\\Entities\\DwVentas\\FactClienteAtendido.cs",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Entities\\DwVentas\\FactClienteAtendido.cs",
+              "RelativeToolTip": "LoadDWHVentas.Data\\Entities\\DwVentas\\FactClienteAtendido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:29:23.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataServiceDwVentas.cs",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Services\\DataServiceDwVentas.cs",
+              "RelativeDocumentMoniker": "LoadDWHVentas.Data\\Services\\DataServiceDwVentas.cs",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Services\\DataServiceDwVentas.cs",
+              "RelativeToolTip": "LoadDWHVentas.Data\\Services\\DataServiceDwVentas.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAvwOgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:07:02.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Models\\Northwind\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "LoadDWHVentas.Data\\Models\\Northwind\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Models\\Northwind\\NorthwindContext.cs",
+              "RelativeToolTip": "LoadDWHVentas.Data\\Models\\Northwind\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:22:37.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Context\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "LoadDWHVentas.Data\\Context\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Context\\NorthwindContext.cs",
+              "RelativeToolTip": "LoadDWHVentas.Data\\Context\\NorthwindContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:30:50.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbSalesContext.cs",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Models\\sales\\DbSalesContext.cs",
+              "RelativeDocumentMoniker": "LoadDWHVentas.Data\\Models\\sales\\DbSalesContext.cs",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Models\\sales\\DbSalesContext.cs",
+              "RelativeToolTip": "LoadDWHVentas.Data\\Models\\sales\\DbSalesContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:27:58.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.WorkerService\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "LoadDWHVentas.WorkerService\\Models\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.WorkerService\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "LoadDWHVentas.WorkerService\\Models\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:37:42.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VwServedCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Entities\\Northwind\\VwServedCustomer.cs",
+              "RelativeDocumentMoniker": "LoadDWHVentas.Data\\Entities\\Northwind\\VwServedCustomer.cs",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Entities\\Northwind\\VwServedCustomer.cs",
+              "RelativeToolTip": "LoadDWHVentas.Data\\Entities\\Northwind\\VwServedCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:53:16.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbSalesContext.cs",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Context\\DbSalesContext.cs",
+              "RelativeDocumentMoniker": "LoadDWHVentas.Data\\Context\\DbSalesContext.cs",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Context\\DbSalesContext.cs",
+              "RelativeToolTip": "LoadDWHVentas.Data\\Context\\DbSalesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:31:53.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FactOrder.cs",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Entities\\DwVentas\\FactOrder.cs",
+              "RelativeDocumentMoniker": "LoadDWHVentas.Data\\Entities\\DwVentas\\FactOrder.cs",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\Entities\\DwVentas\\FactOrder.cs",
+              "RelativeToolTip": "LoadDWHVentas.Data\\Entities\\DwVentas\\FactOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:17:11.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoadDWHVentas.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj",
+              "RelativeDocumentMoniker": "LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj",
+              "RelativeToolTip": "LoadDWHVentas.Data\\LoadDWHVentas.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T23:30:45.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Models\\Program.cs",
+              "RelativeDocumentMoniker": "LoadDWHVentas.Models\\Program.cs",
+              "ToolTip": "C:\\Users\\rmont\\Downloads\\LoadDWHVentas\\LoadDWHVentas.Models\\Program.cs",
+              "RelativeToolTip": "LoadDWHVentas.Models\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:20:15.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

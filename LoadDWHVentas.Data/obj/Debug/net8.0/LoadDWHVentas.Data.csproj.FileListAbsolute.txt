@@ -1,0 +1,14 @@
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\obj\Debug\net8.0\LoadDWHVentas.Data.csproj.AssemblyReference.cache
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\obj\Debug\net8.0\LoadDWHVentas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\obj\Debug\net8.0\LoadDWHVentas.Data.AssemblyInfoInputs.cache
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\obj\Debug\net8.0\LoadDWHVentas.Data.AssemblyInfo.cs
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\obj\Debug\net8.0\LoadDWHVentas.Data.csproj.CoreCompileInputs.cache
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\bin\Debug\net8.0\LoadDWHVentas.Data.deps.json
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\bin\Debug\net8.0\LoadDWHVentas.Data.runtimeconfig.json
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\bin\Debug\net8.0\LoadDWHVentas.Data.dll
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\bin\Debug\net8.0\LoadDWHVentas.Data.pdb
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\obj\Debug\net8.0\LoadDWHVentas.Data.dll
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\obj\Debug\net8.0\refint\LoadDWHVentas.Data.dll
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\obj\Debug\net8.0\LoadDWHVentas.Data.pdb
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\obj\Debug\net8.0\LoadDWHVentas.Data.genruntimeconfig.cache
+C:\Users\rmont\Downloads\LoadDWHVentas\LoadDWHVentas.Data\obj\Debug\net8.0\ref\LoadDWHVentas.Data.dll
